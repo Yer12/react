@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/alabs/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/altel-kz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anagram-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intern/anagramm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intern/figmaland" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intern/forGithub/white-candle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intern/landing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nextjs/akezhan.me" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nextjs/next-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nextjs/online-shop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nextjs/portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/white-candle" vcs="Git" />
+  </component>
+</project>
